@@ -1,4 +1,4 @@
-# 133A---HQ9-
+# 133A---HQ9+
 
 HQ9+ is a joke programming language which has only four one-character instructions:
 
